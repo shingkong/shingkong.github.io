@@ -1,6 +1,8 @@
 title: shingkong 
 description: nothing but test
 
+markdown: rdiscount
+
 social:
   - title: GitHub
     img: /assets/images/github.ico
